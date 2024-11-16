@@ -10,3 +10,5 @@ class Solution:
             profit = max(profit, p - buy_price)
         
         return profit
+
+        
